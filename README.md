@@ -1,2 +1,2 @@
-# exo5-github REMOTE
+REMOTE
 je ne sait pas quoi écrire
